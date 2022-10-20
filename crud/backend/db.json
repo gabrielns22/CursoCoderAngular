@@ -1,0 +1,29 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Macbook",
+      "price": 12000
+    },
+    {
+      "id": 1,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Produto teste",
+      "price": 125.98,
+      "id": 3
+    },
+    {
+      "name": "Xioami mi a3",
+      "price": "1100,00",
+      "id": 4
+    }
+  ]
+}
