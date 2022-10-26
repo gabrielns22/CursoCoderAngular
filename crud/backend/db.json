@@ -1,5 +1,5 @@
 {
-  "product": [
+  "products": [
     {
       "id": 0,
       "name": "Caneta Bic Preta",
@@ -16,9 +16,14 @@
       "price": 5000.89
     },
     {
-      "name": "Produto teste",
-      "price": 125.98,
+      "name": "Monitor LG 23\"",
+      "price": "700",
       "id": 3
+    },
+    {
+      "name": "Pedaleira zoom g3x",
+      "price": "1100",
+      "id": 4
     }
   ]
 }
